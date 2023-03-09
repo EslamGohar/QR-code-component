@@ -64,11 +64,11 @@ body {
 
 .footer a {
 	text-decoration: none;
-	color: hsl(218, 44%, 22%);
+	color: hsl(218, 94%, 19%);
 	line-height: 25px;
 }
 
 .footer a:hover {
 	text-decoration: underline;
-	color:hsl(220, 15%, 55%);
+	color:hsl(219, 42%, 56%);
 }
