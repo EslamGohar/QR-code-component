@@ -23,17 +23,17 @@ It's a QR code image card component built using only HTML & CSS and responsive o
 
 ![desktop-preview](./images/desktop-preview.png)
 
-![mobile-preview](./images/mobile_preview.png.png)
+![mobile-preview](./images/mobile_preview.png)
 
 ![mobile-preview](./images/mobile-preview_iPhone%206_7_8.png)
 
-![mobile-preview](./images/mobile-preview_Nexus%205X.png.png)
+![mobile-preview](./images/mobile-preview_Nexus%205X.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/EslamGohar/QR-code-component)
+- Live Site URL: (https://eslamx-qr-code.netlify.app/)
 
 ## My process
 
