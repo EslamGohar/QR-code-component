@@ -24,11 +24,14 @@ It's a QR code image card component built using only HTML & CSS and responsive o
 ![desktop-preview](./images/desktop-preview.png)
 
 ![mobile-preview](./images/mobile_preview.png)
+<<<<<<< HEAD
 
 ![mobile-preview](./images/mobile-preview_iPhone%206_7_8.png)
 
 ![mobile-preview](./images/mobile-preview_Nexus%205X.png)
 
+=======
+>>>>>>> 1613c29033bd878d1eda04e214acb62af8341923
 
 ### Links
 
@@ -52,12 +55,12 @@ To see how you can add code snippets, see below:
 
 ```css
 html {
-	font-size: 62.5%;
+   font-size: 62.5%;
 }
 
 body { 
-	font-family: 'Outfit', sans-serif;
-	font-size: 1.5rem;
+  font-family: 'Outfit', sans-serif;
+  font-size: 1.5rem;
   background-color: hsl(212, 45%, 89%)
 }
 ```
@@ -67,13 +70,8 @@ body {
 I would like to make my own QR code generator. so, this could be used as a default template.\
 The QR code could be links to a document or something along. Going to think about something useful that could come in handy.
 
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-I'd recommend it to anyone still learning this concept.
-
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- GitHub - [Eslam Gohar](https://github.com/EslamGohar)
+- Frontend Mentor - [@EslamGohar](https://www.frontendmentor.io/profile/EslamGohar)
+- Twitter - [@eslamx_](https://www.twitter.com/eslamx_)
